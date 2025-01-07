@@ -1,5 +1,5 @@
 - 👋 Hello World, I’m Sunny @sunnyhyw1225
-- 👀 I’m interested in AI / Machine Learning / Cloud Computering / Robotics
+- 👀 I’m interested in AI / Machine Learning / Cloud Computering / Computer Architecture / Robotics
 - 🌱 I’m currently studying BEng in Computer Engineering at HKUST
 - 😄 Pronouns: he/him
 
