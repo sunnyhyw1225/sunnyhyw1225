@@ -3,17 +3,18 @@
 ## About me
 
 - Currently pursuing BEng in Computer Engineering at HKUST :hong_kong:
-- 
-- 
+- interested in AI / Machine Learning 🎰 / Cloud Computering ☁️ / Computer Architecture 💻 / Robotics 🤖
+- Noobie to everything
+- Hobbies: playing games🎮
 
-## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
+## Working on
 
-Course Work XD, and personal website / blog
+Course Work XD, latex notes, and a little personal website / blog
 
 
-## 𝗦𝘁𝗮𝘁𝘀
+## Stats
 
-![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=sunnyhyw1225&show_icons=true&theme=dracula)
+![sunnyhyw1225's github stats](https://github-readme-stats.vercel.app/api?username=sunnyhyw1225&show_icons=true)
 
 <!---
 sunnyhyw1225/sunnyhyw1225 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
