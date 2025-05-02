@@ -5,7 +5,7 @@
 - Currently pursuing BEng in Computer Engineering at HKUST :hong_kong:
 - interested in AI / Machine Learning 🎰 / Cloud Computering ☁️ / Computer Architecture 💻 / Robotics 🤖
 - Noobie to everything
-- Hobbies: playing games🎮
+- Hobbies: playing games🎮, watching anime & movie🎦
 
 ## Working on
 
