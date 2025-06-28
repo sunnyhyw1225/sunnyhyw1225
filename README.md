@@ -9,7 +9,7 @@
 
 ## Working on
 
-Course Work XD, latex notes, and a little personal website / blog
+personal website, and FYP...
 
 
 ## Stats
