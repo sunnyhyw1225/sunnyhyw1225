@@ -9,7 +9,7 @@
 
 ## Working on
 
-personal website, and FYP...
+internship, personal website, and FYP...
 
 
 ## Stats
